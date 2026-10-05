@@ -5,6 +5,9 @@
 .whi{
     width: 50px;
     height: 250px;
+    padding-top: 200px;
+    line-height: 1.5rem;
+    color: rgb(160, 160, 160);
 }
 
 .bla {
@@ -13,6 +16,8 @@
     margin-right: -18px;
     width: 35px;
     height: 120px;
+    color: white;
+    text-align: center;
     background-color: black;
 }
 
